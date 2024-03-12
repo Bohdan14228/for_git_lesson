@@ -11,3 +11,5 @@ for i in range(10):
 
 def main():
     print('main')
+
+    print('main feutere')
