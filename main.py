@@ -10,8 +10,17 @@ for i in range(10):
 
 
 def main():
+
     print('main feutere')
 
 
 def feutere():
     print('main feutere')
+
+    print('main')
+
+    print('main feutere')
+
+
+def pay():
+    print('pay')
