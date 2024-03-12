@@ -13,3 +13,7 @@ def main():
     print('main')
 
     print('main feutere')
+
+
+def pay():
+    print('pay')
